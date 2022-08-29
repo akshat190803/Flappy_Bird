@@ -32,4 +32,4 @@ The bird generally falls down due to gravity, we have to use 'space' or 'mouse' 
 
 * If we hit the obstacle, the game ends and we get the screen with restart button and our score. To restart we have to use 'space' and after restart your best score gets updated.
 
-![](/img/fb_restart.png)
+![](flappybird-master/img/fb_restart.png)
