@@ -18,16 +18,16 @@ The bird generally falls down due to gravity, we have to use 'space' or 'mouse' 
 
 * The Home screen contains just contains a stationary bird. we have to press either 'space' or use 'mouse' to start the game.
 
-![](/img/fb_basic.png)
+![](/flappybird-master/img/fb_basic.png)
 
 
 * we have to move through the pipes in this game like shown in the below screenshot.
 
-![](./img/fb_game.png ) 
+![](flappybird-master/img/fb_game.png ) 
 
 * As your score is increasing the difficulty will increase.
 
-![](./img/fb_game1.png )
+![](flappybird-master/img/fb_game1.png )
 
 
 * If we hit the obstacle, the game ends and we get the screen with restart button and our score. To restart we have to use 'space' and after restart your best score gets updated.
